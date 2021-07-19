@@ -1,9 +1,9 @@
-import programmers.levelOne.Solutions20210719.SolutionOne;
+import programmers.levelOne.Solutions20210719.SolutionTwo;
 
 public class Algorithm {
 
   public static void main(String[] args) {
-    SolutionOne solution = new SolutionOne();
-    System.out.println(solution.solution(new int[]{3, 3, 3, 2, 2, 2}));
+    SolutionTwo solution = new SolutionTwo();
+    System.out.println(solution.solution(new int[]{1, 2, 7, 6, 4}));
   }
 }
