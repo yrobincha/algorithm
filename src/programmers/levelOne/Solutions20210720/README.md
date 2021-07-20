@@ -27,3 +27,7 @@ Level 1
 6. https://programmers.co.kr/learn/courses/30/lessons/42576
 
    해시 연습 문제
+
+7. https://programmers.co.kr/learn/courses/30/lessons/64061
+
+   그냥 열 그때그때 고정시키고 for문 돌려서 0인지 아닌지만 찾으면 됨. 문제는 안 어려운데 인형 두 개 터지는 거 문제 잘못 읽고 어리버리 탔음.
