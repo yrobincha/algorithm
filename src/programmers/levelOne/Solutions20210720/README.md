@@ -15,3 +15,7 @@ Level 1
 3. https://programmers.co.kr/learn/courses/30/lessons/42862
 
    시간 너무 많이 걸림... 자기 체육복은 빼고 카운트 들어가야 함. 다른 사람 보니까 없어지면 -1, 여벌 있으면 +1 해서 -1인 것들만 다루는 듯 함.
+
+4. https://programmers.co.kr/learn/courses/30/lessons/70128
+
+   그냥 for문 돌려서 연산하면 되서 엄청 쉬움. 쉬어가는 문제
