@@ -19,3 +19,7 @@ Level 1
 4. https://programmers.co.kr/learn/courses/30/lessons/70128
 
    그냥 for문 돌려서 연산하면 되서 엄청 쉬움. 쉬어가는 문제
+
+5. https://programmers.co.kr/learn/courses/30/lessons/67256
+
+   그냥 노가다 같은데... 그저 그런 문제인듯
