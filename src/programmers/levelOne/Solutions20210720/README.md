@@ -6,7 +6,7 @@ Level 1
 
 1. https://programmers.co.kr/learn/courses/30/lessons/42840
 
-    완전탐색 문제. 테스트 케이스 만든 뒤 함수 만들어서 각각 다 카운트하고 카운트대로 max 찾고 정렬
+   완전탐색 문제. 테스트 케이스 만든 뒤 함수 만들어서 각각 다 카운트하고 카운트대로 max 찾고 정렬
    
 2. https://programmers.co.kr/learn/courses/30/lessons/42748
 
@@ -23,3 +23,7 @@ Level 1
 5. https://programmers.co.kr/learn/courses/30/lessons/67256
 
    그냥 노가다 같은데... 그저 그런 문제인듯
+
+6. https://programmers.co.kr/learn/courses/30/lessons/42576
+
+   해시 연습 문제
