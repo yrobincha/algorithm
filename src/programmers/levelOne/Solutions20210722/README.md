@@ -15,3 +15,7 @@ Level 1
 3. https://programmers.co.kr/learn/courses/30/lessons/12982
 
    정렬한 뒤 제일 작은 것부터 더해가면서 푸는 문제. 빼면서 하는 사람도 있는 듯
+
+4. https://programmers.co.kr/learn/courses/30/lessons/77884
+
+   그닥 어렵진 않은데 어리버리 깠음. 약수는 1때문에 무조건 2개부터 시작이 아니라는 것 명심
