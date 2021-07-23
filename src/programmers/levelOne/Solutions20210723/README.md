@@ -19,3 +19,7 @@ Level 1
 4. https://programmers.co.kr/learn/courses/30/lessons/17681
 
    평범한 n진수 문제. num>0으로 while 문 안에 조건을 정해주면 마지막에 또 작업할 필요없음. 자릿수 맞춰서 0 넣어주기
+
+5. https://programmers.co.kr/learn/courses/30/lessons/12903
+
+   평범한 String 문제. 한 줄로 해보려다가 그냥 if else 썼는데 역시나 한 줄로 쓰는 공식있다..
