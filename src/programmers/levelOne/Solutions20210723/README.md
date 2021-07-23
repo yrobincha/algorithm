@@ -11,3 +11,7 @@ Level 1
 2. https://programmers.co.kr/learn/courses/30/lessons/68644
 
    되게 자연스럽게 ArrayList 만들고 contains로 검사하는 방법으로 풀었는데 HashSet이나 TreeSet을 쓰면 된다! TreeSet은 정렬도 해준다.
+
+3. https://programmers.co.kr/learn/courses/30/lessons/12901
+
+   그냥 평범한 일 수 계산 문제
