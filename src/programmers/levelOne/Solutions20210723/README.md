@@ -27,3 +27,7 @@ Level 1
 6. https://programmers.co.kr/learn/courses/30/lessons/17682
 
    너무 길게 푼 거 같다 싶었는데 다들 그렇게 푸는듯. 스택을 써서 해결하는 사람도 있다.
+
+7. https://programmers.co.kr/learn/courses/30/lessons/12906
+
+   평범한 배열 관리 문제
