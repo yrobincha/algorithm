@@ -39,3 +39,7 @@ Level 1
 9. https://programmers.co.kr/learn/courses/30/lessons/12912
 
    그냥 수의 합 구하는 문제인데... 이걸 등차수열 공식으로 구하는 사람도 있다.
+
+10. https://programmers.co.kr/learn/courses/30/lessons/12915
+
+   평범한 String 문제인 줄 알았는데... 해당 인덱스의 문자를 맨 앞에 붙여서 비교할수도, Compare 함수를 오버라이딩해서 풀 수도 있다.
