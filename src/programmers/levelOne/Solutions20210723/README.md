@@ -23,3 +23,7 @@ Level 1
 5. https://programmers.co.kr/learn/courses/30/lessons/12903
 
    평범한 String 문제. 한 줄로 해보려다가 그냥 if else 썼는데 역시나 한 줄로 쓰는 공식있다..
+
+6. https://programmers.co.kr/learn/courses/30/lessons/17682
+
+   너무 길게 푼 거 같다 싶었는데 다들 그렇게 푸는듯. 스택을 써서 해결하는 사람도 있다.
