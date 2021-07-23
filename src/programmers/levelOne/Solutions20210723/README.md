@@ -35,3 +35,7 @@ Level 1
 8. https://programmers.co.kr/learn/courses/30/lessons/12910
 
    평범한 배열 관리 문제인 줄 알았는데...Arrays.stream(array).filter(factor -> factor % divisor == 0).toArray()를 사용하면 코드가 상당히 간결해진다.
+
+9. https://programmers.co.kr/learn/courses/30/lessons/12912
+
+   그냥 수의 합 구하는 문제인데... 이걸 등차수열 공식으로 구하는 사람도 있다.
