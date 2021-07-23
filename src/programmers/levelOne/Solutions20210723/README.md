@@ -31,3 +31,7 @@ Level 1
 7. https://programmers.co.kr/learn/courses/30/lessons/12906
 
    평범한 배열 관리 문제
+
+8. https://programmers.co.kr/learn/courses/30/lessons/12910
+
+   평범한 배열 관리 문제인 줄 알았는데...Arrays.stream(array).filter(factor -> factor % divisor == 0).toArray()를 사용하면 코드가 상당히 간결해진다.
