@@ -11,3 +11,7 @@ Level 1
 2. https://programmers.co.kr/learn/courses/30/lessons/12922
 
    그냥 평범한 문자열 문제
+
+3. https://programmers.co.kr/learn/courses/30/lessons/12925
+
+   세상 간단하게 푼 문자열 문제... 이게 자바의 장점이지
