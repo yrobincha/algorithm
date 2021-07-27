@@ -19,3 +19,7 @@ Level 1
 4. https://programmers.co.kr/learn/courses/30/lessons/12926
 
    그냥 알파벳 다루는 문제인데 은근 조건이 까다로움.
+
+5. https://programmers.co.kr/learn/courses/30/lessons/12928
+
+   그냥 엄청 쉬운 약수 다루는 문제
