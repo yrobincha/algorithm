@@ -19,3 +19,7 @@ Level 1
 4. https://programmers.co.kr/learn/courses/30/lessons/12933
 
    좀 특이한 정수 정렬 후 합을 구하는 문제. 일일히 풀어볼라다가 그냥 유틸 씀.
+
+5. https://programmers.co.kr/learn/courses/30/lessons/12934
+
+   Math 유틸 쓰면 되게 간단하게 쓸 문제여서 쓰다가 틀려서 그냥 한 번 알고리즘 만들어 보려다가 다시 보니까 문제를 잘못 읽음...
