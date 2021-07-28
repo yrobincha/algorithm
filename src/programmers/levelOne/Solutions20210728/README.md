@@ -15,3 +15,7 @@ Level 1
 3. https://programmers.co.kr/learn/courses/30/lessons/12932
 
    그냥 평범한 정수 다루는 문제
+
+4. https://programmers.co.kr/learn/courses/30/lessons/12933
+
+   좀 특이한 정수 정렬 후 합을 구하는 문제. 일일히 풀어볼라다가 그냥 유틸 씀.
