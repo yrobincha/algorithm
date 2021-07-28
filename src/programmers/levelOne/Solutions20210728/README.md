@@ -11,3 +11,7 @@ Level 1
 2. https://programmers.co.kr/learn/courses/30/lessons/12931
 
    그냥 평범한 정수 다루는 문제
+
+3. https://programmers.co.kr/learn/courses/30/lessons/12932
+
+   그냥 평범한 정수 다루는 문제

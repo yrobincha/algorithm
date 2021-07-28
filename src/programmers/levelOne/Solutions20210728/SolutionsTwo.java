@@ -1,6 +1,6 @@
 package programmers.levelOne.Solutions20210728;
 
-public class SolutionTwo {
+public class SolutionsTwo {
 
   public int solution(int n) {
     int answer = 0;
