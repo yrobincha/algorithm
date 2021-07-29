@@ -35,3 +35,7 @@ Level 1
 8. https://programmers.co.kr/learn/courses/30/lessons/12950
 
    그냥 평범한 배열 문제
+
+9. https://programmers.co.kr/learn/courses/30/lessons/12954
+
+   그냥 평범한 정수 문제
