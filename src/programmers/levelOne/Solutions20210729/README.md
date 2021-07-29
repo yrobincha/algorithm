@@ -27,3 +27,7 @@ Level 1
 6. https://programmers.co.kr/learn/courses/30/lessons/12947
 
    쉬운 문제여서 대충 풀다가 사소한 거 놓쳤다... 원래 값 저장해놓기
+
+7. https://programmers.co.kr/learn/courses/30/lessons/12948
+
+   그냥 평범한 문자열 문제
