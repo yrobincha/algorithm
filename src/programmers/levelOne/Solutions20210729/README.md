@@ -19,3 +19,7 @@ Level 1
 4. https://programmers.co.kr/learn/courses/30/lessons/12943
 
    맞게 푼 거 같은데 틀렸다 해서 보니까... 문제가 잘못됨 후...
+
+5. https://programmers.co.kr/learn/courses/30/lessons/12944
+
+   그냥 평범한 정수 문제
