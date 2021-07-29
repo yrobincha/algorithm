@@ -11,3 +11,7 @@ Level 1
 2. https://programmers.co.kr/learn/courses/30/lessons/12937
 
    그냥 평범한 정수, 문자열 문제
+
+3. https://programmers.co.kr/learn/courses/30/lessons/12940
+
+   최대공약수랑 최소공배수 문제
