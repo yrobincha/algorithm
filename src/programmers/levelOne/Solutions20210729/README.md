@@ -31,3 +31,7 @@ Level 1
 7. https://programmers.co.kr/learn/courses/30/lessons/12948
 
    그냥 평범한 문자열 문제
+
+8. https://programmers.co.kr/learn/courses/30/lessons/12950
+
+   그냥 평범한 배열 문제
