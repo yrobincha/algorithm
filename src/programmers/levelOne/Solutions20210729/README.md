@@ -15,3 +15,7 @@ Level 1
 3. https://programmers.co.kr/learn/courses/30/lessons/12940
 
    최대공약수랑 최소공배수 문제
+
+4. https://programmers.co.kr/learn/courses/30/lessons/12943
+
+   맞게 푼 거 같은데 틀렸다 해서 보니까... 문제가 잘못됨 후...
