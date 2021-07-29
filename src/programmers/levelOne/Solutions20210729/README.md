@@ -39,3 +39,7 @@ Level 1
 9. https://programmers.co.kr/learn/courses/30/lessons/12954
 
    그냥 평범한 정수 문제
+
+10. https://programmers.co.kr/learn/courses/30/lessons/12969
+
+   기본 별 찍기 문제
