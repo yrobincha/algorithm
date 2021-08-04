@@ -11,3 +11,7 @@ Level 2
 2. https://programmers.co.kr/learn/courses/30/lessons/43165
 
    DFS로 푼 문제 확실히 DFS는 재귀로 풀어야 하나보다.
+
+3. https://programmers.co.kr/learn/courses/30/lessons/42888
+
+   카카오 레벨 2 치고 좀 쉬운 편...? HashMap 쓰면 간단하다.
