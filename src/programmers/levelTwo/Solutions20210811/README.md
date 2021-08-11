@@ -11,3 +11,7 @@ Level 2
 2. https://programmers.co.kr/learn/courses/30/lessons/12951
 
    2단계치고 많이 쉬운 그냥 문자열 문제.
+
+3. https://programmers.co.kr/learn/courses/30/lessons/12953
+
+   2단계치고 많이 쉬운 그냥 정수 문제.
