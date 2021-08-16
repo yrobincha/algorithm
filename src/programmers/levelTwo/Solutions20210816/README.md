@@ -15,3 +15,7 @@ Level 2
 3. https://programmers.co.kr/learn/courses/30/lessons/12978
 
    다익스트라... 우선순위 큐를 활용한다. 많이 배웠다.
+
+4. https://programmers.co.kr/learn/courses/30/lessons/42578
+
+   쉬어가는 해시 문제. value마다 +1을 하고 곱해서 나온 값에서 아무 것도 안 입는 1을 빼준다.
