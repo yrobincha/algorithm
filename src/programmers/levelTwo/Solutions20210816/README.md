@@ -11,3 +11,7 @@ Level 2
 2. https://programmers.co.kr/learn/courses/30/lessons/42860
 
    탐욕 알고리즘이라...쉽지 않다.
+
+3. https://programmers.co.kr/learn/courses/30/lessons/12978
+
+   다익스트라... 우선순위 큐를 활용한다. 많이 배웠다.
