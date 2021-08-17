@@ -11,3 +11,7 @@ Level 2
 2. https://programmers.co.kr/learn/courses/30/lessons/42842
 
    그냥 쉬어가는 문제
+
+3. https://programmers.co.kr/learn/courses/30/lessons/42583
+
+   큐 문제. 1초 단위 디테일만 신경 써주니 금방 해결
