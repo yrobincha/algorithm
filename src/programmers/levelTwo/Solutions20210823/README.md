@@ -15,3 +15,7 @@ Level 2
 3. https://programmers.co.kr/learn/courses/30/lessons/12981
 
    해시랑 뭐 등등 쓰면 되는 문제
+
+4. https://programmers.co.kr/learn/courses/30/lessons/42584
+
+   break 조건 처음에 안 걸고 풀었다가 왜 틀린지 모를뻔... 쉬운 문제라 금방 풀었다.
