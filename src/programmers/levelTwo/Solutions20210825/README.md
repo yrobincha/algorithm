@@ -27,3 +27,7 @@ Level 2
 6. https://programmers.co.kr/learn/courses/30/lessons/49994
 
    평범한 매트릭스랑 해시 문제인데 조건이 좀 참신했다.
+
+7. https://programmers.co.kr/learn/courses/30/lessons/17683
+
+   좀 복잡한 문자열 문제. #붙은 거는 다른 문자로 치환해서 풀면 된다.
