@@ -23,3 +23,7 @@ Level 2
 5. https://programmers.co.kr/learn/courses/30/lessons/49993
 
    정규식을 쓸 수도 있었는데 그냥 풀어봤다. 근데 문제에 스킬트리에 없는 스킬들로만 구성된 트리도 배울 수 있다는 조건이 없어서 헤맸다.
+
+6. https://programmers.co.kr/learn/courses/30/lessons/49994
+
+   평범한 매트릭스랑 해시 문제인데 조건이 좀 참신했다.
