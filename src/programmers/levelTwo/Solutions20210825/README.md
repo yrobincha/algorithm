@@ -11,3 +11,7 @@ Level 2
 2. https://programmers.co.kr/learn/courses/30/lessons/70129
 
    그냥 무난한 문자열 문제
+
+3. https://programmers.co.kr/learn/courses/30/lessons/12980
+
+   그냥 무난한 정수 문제
