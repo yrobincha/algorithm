@@ -19,3 +19,7 @@ Level 2
 4. https://programmers.co.kr/learn/courses/30/lessons/12939
 
    그냥 평범한 문자열 문제. 근데 문제 조건이 쉬운 걸 못 보고 괜히 어렵게 하다가 처음에 다 틀렸다.
+
+5. https://programmers.co.kr/learn/courses/30/lessons/12941
+
+   그냥 평범한 정렬 문제.
