@@ -11,3 +11,7 @@ Level 2
 2. https://programmers.co.kr/learn/courses/30/lessons/12913
 
    처음에 재귀로 풀었다가 싹 다 시간초과 나서 검색해서 DP로 다시 풀었더니 올 통과했다. DP를 잘 기억해서 써 먹자.
+
+3. https://programmers.co.kr/learn/courses/30/lessons/12924
+
+   직전 문제가 DP여서 당연하게도 DP로 풀었는데 그냥 완전탐색으로 풀면 되는 문제였다...
