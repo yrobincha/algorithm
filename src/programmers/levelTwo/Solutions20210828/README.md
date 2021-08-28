@@ -15,3 +15,7 @@ Level 2
 3. https://programmers.co.kr/learn/courses/30/lessons/12924
 
    직전 문제가 DP여서 당연하게도 DP로 풀었는데 그냥 완전탐색으로 풀면 되는 문제였다...
+
+4. https://programmers.co.kr/learn/courses/30/lessons/12939
+
+   그냥 평범한 문자열 문제. 근데 문제 조건이 쉬운 걸 못 보고 괜히 어렵게 하다가 처음에 다 틀렸다.
