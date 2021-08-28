@@ -23,3 +23,7 @@ Level 2
 5. https://programmers.co.kr/learn/courses/30/lessons/12941
 
    그냥 평범한 정렬 문제.
+
+6. https://programmers.co.kr/learn/courses/30/lessons/12945
+
+   피보나치길래 아무 생각없이 재귀로 풀었다가 시간초과 나서 ArrayList 써서 다시 풀었다. 그 와중에 오버플로우 때문에 1234567로 계속 나눠 줘야 하는 건 함정.
