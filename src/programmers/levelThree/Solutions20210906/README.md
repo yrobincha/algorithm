@@ -15,3 +15,7 @@ Level 3
 3. https://programmers.co.kr/learn/courses/30/lessons/42628
 
    우선순위 ArrayDeque를 구현하는 문제. 그냥 쉽다.
+
+4. https://programmers.co.kr/learn/courses/30/lessons/42884
+
+   진짜 Greedy하게 풀 수 있는 문제. 나가는 시간대로 정렬한 뒤에 제일 처음 나가는 차가 나갈 때마다 그 차랑 그 전에 시작했던 차들 전부 제거. 그리고 빌 때까지 반복. 참 천재적인 사람들이 많다...
