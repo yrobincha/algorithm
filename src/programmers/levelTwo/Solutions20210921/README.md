@@ -11,3 +11,7 @@ Level 2
 2. https://programmers.co.kr/learn/courses/30/lessons/86048
 
    (7주차_입실 퇴실) 규칙만 너무 복잡한 문제
+
+3. https://programmers.co.kr/learn/courses/30/lessons/84512
+
+   (5주차_모음사전) 규칙 찾으면 간단한 경우의 수 문제
