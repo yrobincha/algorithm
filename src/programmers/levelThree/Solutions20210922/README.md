@@ -1,0 +1,9 @@
+# algorithm
+
+2021-09-22
+
+Level 3
+
+1. https://programmers.co.kr/learn/courses/30/lessons/12900
+
+   (2 x n 타일링) 3주차 문제치고 되게 쉬운 문제인데 처음에 규칙 몰라서 많이 헤맸다. 이걸 피보나치로 생각해내는 사람은 도대체... 
