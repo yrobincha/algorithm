@@ -15,3 +15,7 @@ Level 3
 3. https://programmers.co.kr/learn/courses/30/lessons/12907
 
    (거스름돈) DP 공부를 열심히 하자.
+
+4. https://programmers.co.kr/learn/courses/30/lessons/12914
+
+   (멀리 뛰기) 오늘 풀었던 1번 문제랑 그냥 똑같은 문제
