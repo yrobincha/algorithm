@@ -15,3 +15,7 @@ Level 3
 3. https://programmers.co.kr/learn/courses/30/lessons/12946
 
    (하노이의 탑) 하노이의 탑을 재귀로 푸는 법을 배웠다.
+
+4. https://programmers.co.kr/learn/courses/30/lessons/12952
+
+   (N-Queen) 백트래킹을 배웠다. N-Queen 문제가 대표적이라고 한다.
