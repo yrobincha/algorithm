@@ -11,3 +11,7 @@ Level 3
 2. https://programmers.co.kr/learn/courses/30/lessons/12938
 
    (최고의 집합) 규칙이 다행히 한 번에 보여서 쉽게 풀었다. 모든 수가 최대한 비슷해야 최고의 곱을 리턴.
+
+3. https://programmers.co.kr/learn/courses/30/lessons/12946
+
+   (하노이의 탑) 하노이의 탑을 재귀로 푸는 법을 배웠다.
